@@ -1,56 +1,46 @@
- Backend Learning Repository
+# Backend Learning Repository  
 
-This repository contains my complete backend learning journey.  
-It includes **JavaScript, Node.js, Express.js, MongoDB, Authentication, and Projects**.  
-Everything is organized **folder-wise** for easy navigation.
+This repository contains my complete backend development learning journey.  
+It covers **JavaScript, Node.js, Express.js, MongoDB, and Authentication**.  
+All topics are organized folder-wise for easy navigation and practice.  
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure  
 
-### 1. `javascript-basics/`
+### 1. `javascript-basics/`  
 - Variables, Data Types, Loops, Functions  
 - ES6+ concepts (let/const, arrow functions, template literals)  
 - Practice examples for fundamentals  
 
-### 2. `nodejs/`
+### 2. `nodejs/`  
 - Node.js basics (modules, fs, path, events, http)  
 - Core concepts: Event Loop, Streams  
 - Example programs to understand server-side JS  
 
-### 3. `expressjs/`
-- Express.js basics (routing, middleware)  
+### 3. `expressjs/`  
+- Express.js basics  
 - REST API examples  
-- CRUD operations with Express  
+- Middleware, Routing  
 
-### 4. `mongodb/`
-- MongoDB basics (CRUD operations, queries)  
-- Schema design & relationships  
-- Mongoose examples  
+### 4. `mongodb/`  
+- MongoDB CRUD operations  
+- Mongoose for schema & models  
+- Query operators and aggregation basics  
 
-### 5. `authentication/`
+### 5. `authentication/`  
+- JWT (JSON Web Tokens)  
 - User signup & login system  
-- JWT (JSON Web Token) authentication  
-- Password hashing with bcrypt  
-
-### 6. `projects/`
-- Small & major projects combining all concepts  
-- Example: Cake Shop Backend (Auth + Cart + Orders)  
+- Protected routes  
 
 ---
 
-## ⚡ How to Use
+## ▶️ How to Run  
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/akashkashyap000/backend-learning.git
-Navigate to any folder
-
-bash
-Copy
-Edit
+Navigate to any folder:  
+```bash
 cd nodejs
-Run examples
+Run an example file:
 
 bash
 Copy
@@ -67,17 +57,15 @@ MongoDB (Mongoose)
 
 JWT & Authentication
 
-🚀 Roadmap (Learning Goals)
-✅ JavaScript Fundamentals
+ Roadmap (Learning Goals)
+ JavaScript Fundamentals
+ Node.js Basics
+ Express.js & REST APIs
+ MongoDB CRUD + Mongoose
+ Authentication System
+🔜 Deployment (Render / Vercel / Railway)
+🔜 Advanced Topics (GraphQL, TypeScript, WebSockets)
 
-✅ Node.js Basics
-
-✅ Express.js & REST APIs
-
-✅ MongoDB CRUD + Mongoose
-
-✅ Authentication System
-
- Author
-
+📌 Author
 👨‍💻 akashkashyap000
+
